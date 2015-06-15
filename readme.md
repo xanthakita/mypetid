@@ -1,3 +1,23 @@
+# MyPetID
+## a Laravel project
+
+The MypetID is a pet registry for anyone who wants to register their pet.  It can be for documentations purposes, for tracking gentics, family trees, simply having a registration number for proof of ownership. 
+
+<!-- The cost to regsiter will be $1 per pet.
+If someone has a lot of pets blocks of registrations can be purchased:
+
+- up to 25 registrations for $15
+- 26-50 registrations for $25
+- 51-100 registrations for $50
+- unlimited registrations $100
+ -->
+I am starting on this project the intent is to tie into paypal or some other online payment method to handle the registrations fees. 
+
+
+This readme will continue to grow as the project proceeds.  Anyone who is interested in helping please
+
+
+---
 ## Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
