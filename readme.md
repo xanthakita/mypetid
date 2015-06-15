@@ -11,6 +11,39 @@ If someone has a lot of pets blocks of registrations can be purchased:
 - 51-100 registrations for $50
 - unlimited registrations $100
  -->
+### Basic Data Collected
+The following data will be collected:
+pets->pet
+id,
+name,
+species,
+breed,
+birthdate,
+registration_date,
+ownerID,
+neutored, (y/n)
+DameID,
+SireID
+
+owners->owner
+id,
+firstname,
+lastname,
+street1,
+street2,
+city,
+state,
+zip,
+email,
+phone,
+number_of_registered_pets,
+regstration_credits_remaining
+
+
+
+
+
+
 I am starting on this project the intent is to tie into paypal or some other online payment method to handle the registrations fees. 
 
 
