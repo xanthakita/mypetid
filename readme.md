@@ -3,17 +3,10 @@
 
 The MypetID is a pet registry for anyone who wants to register their pet.  It can be for documentations purposes, for tracking gentics, family trees, simply having a registration number for proof of ownership. 
 
-<!-- The cost to regsiter will be $1 per pet.
-If someone has a lot of pets blocks of registrations can be purchased:
 
-- up to 25 registrations for $15
-- 26-50 registrations for $25
-- 51-100 registrations for $50
-- unlimited registrations $100
- -->
 ### Basic Data Collected
 The following data will be collected:
->>pets->pet
+>pets->pet
 - id,
 - name,
 - species,
@@ -25,7 +18,7 @@ The following data will be collected:
 - DameID,
 - SireID
 
->>owners->owner
+>owners->owner
 - id,
 - firstname,
 - lastname,
@@ -40,6 +33,16 @@ The following data will be collected:
 - regstration_credits_remaining
 
 
+### Registration fees
+The cost to regsiter will be $1 per pet.
+If someone has a lot of pets blocks of registrations can be purchased:
+
+- 1 to 15 registrations $1/each
+- block up to 25 registrations for $20
+- block up to 50 registrations for $30
+- block up to 100 registrations for $60
+- unlimited registrations $100
+- or any combination until you spend $100 then you have unlimited
 
 
 
