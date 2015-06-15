@@ -13,31 +13,31 @@ If someone has a lot of pets blocks of registrations can be purchased:
  -->
 ### Basic Data Collected
 The following data will be collected:
-pets->pet
-id,
-name,
-species,
-breed,
-birthdate,
-registration_date,
-ownerID,
-neutored, (y/n)
-DameID,
-SireID
+>>pets->pet
+- id,
+- name,
+- species,
+- breed,
+- birthdate,
+- registration_date,
+- ownerID,
+- neutored, (y/n)
+- DameID,
+- SireID
 
-owners->owner
-id,
-firstname,
-lastname,
-street1,
-street2,
-city,
-state,
-zip,
-email,
-phone,
-number_of_registered_pets,
-regstration_credits_remaining
+>>owners->owner
+- id,
+- firstname,
+- lastname,
+- street1,
+- street2,
+- city,
+- state,
+- zip,
+- email,
+- phone,
+- number_of_registered_pets,
+- regstration_credits_remaining
 
 
 
