@@ -17,6 +17,8 @@ The following data will be collected:
 - neutored, (y/n)
 - DameID,
 - SireID
+- microchipped (y/n)
+- chipID
 
 >owners->owner
 - id,
